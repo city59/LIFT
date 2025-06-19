@@ -49,4 +49,4 @@ python main.py --dataset Yelp
 
 python main.py --dataset Tmall
 
-python main.py --dataset Retail
+python main.py --dataset retail
