@@ -37,10 +37,13 @@ for Multi-Behavior Recommendation](https://github.com/akaxlh/KHGT)." to process 
 
 The other two datasets are available from (https://github.com/akaxlh/KHGT).
 
+## Reference 
+- We partially use the codes of [KMCLR].
+
+
 ## Usage
 To run the LIFT model, execute the main script:
 ```bash
 python main.py
 
-## Usage
-- We partially use the codes of [KMCLR].
+
