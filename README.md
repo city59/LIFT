@@ -41,7 +41,7 @@ The other two datasets are available from (https://github.com/akaxlh/KHGT).
 - We partially use the codes of [KMCLR].
 
 
-## Usage
+## Run
 To run the LIFT model on different datasets, execute the main script with the corresponding dataset parameter:
 
 ```bash
