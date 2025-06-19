@@ -45,5 +45,3 @@ The other two datasets are available from (https://github.com/akaxlh/KHGT).
 To run the LIFT model, execute the main script:
 ```bash
 python main.py
-
-
