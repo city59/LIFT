@@ -35,7 +35,6 @@ for Multi-Behavior Recommendation](https://github.com/akaxlh/KHGT)." to process 
 | Retail  | 147,894 | 99,037 | 1,584,238    | Favorite, Cart, Purchase       | 
 
 
-
 The other two datasets are available from (https://github.com/akaxlh/KHGT).
 
 ## Usage
@@ -43,7 +42,5 @@ To run the LIFT model, execute the main script:
 ```bash
 python main.py
 
-
-
-## Reference 
+## Usage
 - We partially use the codes of [KMCLR].
