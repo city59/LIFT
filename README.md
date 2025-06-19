@@ -45,8 +45,8 @@ The other two datasets are available from (https://github.com/akaxlh/KHGT).
 To run the LIFT model on different datasets, execute the main script with the corresponding dataset parameter:
 
 ```bash
-python main.py --dataset yelp
+python main.py --dataset Yelp
 
 python main.py --dataset Tmall
 
-python main.py --dataset retail
+python main.py --dataset Retail
