@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 [![PyTorch 1.10+](https://img.shields.io/badge/PyTorch-1.10%2B-red)](https://pytorch.org/)
 
-This repository contains the official implementation of ​**LIFT**.
+This repository contains the official implementation of TBD papper​**LIFT** [https://ieeexplore.ieee.org/document/11202604]
 
 ## Requirements
 The code has been tested running under Python 3.8.0. Required packages:
